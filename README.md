@@ -23,7 +23,7 @@ Features
 * Auto-Install
 * Startup Persistence
 * UAC Bypass(Schedule）
-* PCInfo（Schedule)
+* PCInfo（Coming soon!)
 * Discord token Stealer(Schedule)
 * Self-Erases
 * DNS Resolving
